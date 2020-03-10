@@ -1,0 +1,8 @@
+{
+    "name": "com.github.fanhexin.icloudkvstore",
+    "displayName": "iCloudKvStore",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "iCloud key-value store wrapper.",
+    "keywords": ["icloud", "storage", "store"]
+}
